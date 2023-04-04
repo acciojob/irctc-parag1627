@@ -20,4 +20,5 @@ public enum Station {
     VARANASI,
     DARJELLING,
     KOLKATA
+
 }
